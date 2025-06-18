@@ -82,7 +82,7 @@
         </plugins>
         <pluginManagement>
             <plugins>
-                <!-- Elimino aspectj-maven-plugin de aquí -->
+
             </plugins>
         </pluginManagement>
     </build>
